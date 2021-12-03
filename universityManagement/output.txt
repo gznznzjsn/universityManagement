@@ -1,0 +1,8 @@
+Course "java"
+Students:
+gg4 Slim Shady XS
+jj8 Slim Shady XL
+pr3 Slim Shady S
+sg5 Slim Shady XXL
+te2 Slim Shady M
+yj34 Slim Shady L
